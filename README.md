@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <img src="https://th.bing.com/th/id/OIP.sVTKyVW7Nr_sPNJbRLnaBwHaCl?w=339&h=122&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="Banner" width="1100"/>
 <h1 align="center">Hi 👋, I'm Sejal Shende</h1>
-<h3 align="center">Computer Science bachelor's graduate with abilities in statistical and predictive analytics and the capacity to work in a variety of data situations.</h3>
+<h3 align="center">Computer science student with a passion for problem-solving and Tech enthusiast on a mission to learn and grow. Constantly seeking new challenges and opportunities to expand my knowledge. Making a difference, one line of code at a time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sejal2808&label=Profile%20views&color=0e75b6&style=flat" alt="sejal2808" /> </p>
 
