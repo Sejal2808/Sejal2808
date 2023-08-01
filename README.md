@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sejal2808&label=Profile%20views&color=0e75b6&style=flat" alt="sejal2808" /> </p>
 
-- 👩🏻‍💻 I’m currently working on **Stock Prediction using LSTM**
+- 👩🏻‍💻 I’m currently working on **Generative Adversarial Network for Image Synthesis**
 
-- 🤖 I’m currently learning **Machine Learning and Deep Learning**
+- 🤖 I’m currently learning **VR and 360 Video Production**
 
-- 💬 Ask me about **Data Analysis , Front end Development**
+- 💬 Ask me about **Front end Development and Machine Learning**
 
 - 📧 How to reach me **sejalkshende2808@gmail.com**
 
